@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Negotiation"
+  },
+  "description": {
+    "en": "Shows info about cause of negotiations in tender"
+  },
+  "documentationUrl": {
+    "en": "https://github.com/openprocurement/ocds_negotiation_extension"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
+}
